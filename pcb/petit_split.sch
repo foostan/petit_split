@@ -1,12 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:petit_split-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Micro Split"
-Date "2018-08-28"
+Title "Petit Split"
+Date "2018-09-20"
 Rev "1.0"
 Comp "foostan"
 Comment1 ""
